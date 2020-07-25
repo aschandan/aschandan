@@ -2,7 +2,7 @@
 
 I'm Amandeep, a graphic design student who is passionate (but still learning) about making good design and hopefully leaving a impression on someone.
 
-I got a a href="https://amandeepchandan.com/">website</a>! (which is work in progress). Besides that, I get easily distracted by other projects and hobbies within my life.
+I got a <a href="https://amandeepchandan.com/">website</a>! (which is work in progress). Besides that, I get easily distracted by other projects and hobbies within my life.
 
 ## Finding me elsewhere on the web 🌎:
 
