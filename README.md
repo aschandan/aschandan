@@ -18,6 +18,6 @@ I got a <a href="https://amandeepchandan.com/">website</a>! (which is work in pr
 
 # About my repo(s):
 
-## The most common languages used:
+### The most common languages used are:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aschandan)](https://github.com/anuraghazra/github-readme-stats)
