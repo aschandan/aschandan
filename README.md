@@ -2,12 +2,10 @@
 
 I'm Amandeep, a graphic design student who is passionate about making good design and hopefully leaving a impression on someone.
 
-Don't mind the blandness of it yet, it is slowly being improved I promise!
-
-I'm currently working on my website and any other side projects that'll catch my attention.
+I got a website! (which is work in progress): https://amandeepchandan.com/. Besides that, I get easily distracted by other projects and hobbies within my life.
 
 ## Any fun facts?
-I have a kazzo.
+I have a kazzo, I can fold a mean origami swan and I love peanut butter (seriously I love it too much).
 
 ## About my repo(s):
 
