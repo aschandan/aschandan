@@ -21,5 +21,3 @@ I got a <a href="https://amandeepchandan.com/">website</a>! (which is work in pr
 ### The most common languages used are:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aschandan)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My's github stats](https://github-readme-stats.vercel.app/api?username=aschandan)](https://github.com/anuraghazra/github-readme-stats)
