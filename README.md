@@ -14,8 +14,10 @@ I got a a href="https://amandeepchandan.com/">website</a>! (which is work in pro
 - I can fold a mean origami swan 
 - I love peanut butter (seriously I love it too much)
 
-## About my repo(s):
+###### If you ever need to contact me or just wish to chat about anything, send me an email!
 
-### The most common languages used:
+### About my repo(s):
+
+## The most common languages used:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aschandan)](https://github.com/anuraghazra/github-readme-stats)
