@@ -9,7 +9,7 @@ I got a <a href="https://amandeepchandan.com/">website</a>! (which is work in pr
 - Occasionally posting my works on my <a href="https://www.instagram.com/amandeep_s_chandan/">Instagram</a> and <a href="https://www.behance.net/deepsc">Behance</a>
 - Lurking on <a href="https://twitter.com/AmandeepChandan">Twitter</a> and <a href="https://www.linkedin.com/in/amandeep-chandan00/">LinkedIn<a/>
 
-###### If you ever need to contact me or just wish to chat about anything, send me an <amandeepchandan00@gmail.com>email!
+###### If you ever need to contact me or just wish to chat about anything, send me an email @ <amandeepchandan00@gmail.com>
 
 ## Any fun facts 🤔?
 - I have a kazzo
