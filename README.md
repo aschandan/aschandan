@@ -1,6 +1,7 @@
-# Hello hello!
+# Hello there.
 
-## Welcome to my profile!
+## I'm Amandeep, and welcome to my github.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aschandan)](https://github.com/anuraghazra/github-readme-stats)
 
 Don't mind the blandness of it yet, it is slowly being improved I promise!
