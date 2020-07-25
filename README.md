@@ -1,11 +1,18 @@
 # Hello hello!
 
-I'm Amandeep, a graphic design student who is passionate about making good design and hopefully leaving a impression on someone.
+I'm Amandeep, a graphic design student who is passionate (but still learning) about making good design and hopefully leaving a impression on someone.
 
-I got a website! (which is work in progress): https://amandeepchandan.com/. Besides that, I get easily distracted by other projects and hobbies within my life.
+I got a a href="https://amandeepchandan.com/">website</a>! (which is work in progress). Besides that, I get easily distracted by other projects and hobbies within my life.
 
-## Any fun facts?
-I have a kazzo, I can fold a mean origami swan and I love peanut butter (seriously I love it too much).
+## Finding me elsewhere on the web 🌎:
+
+- Occasionally posting my works on my <a href="https://www.instagram.com/amandeep_s_chandan/">Instagram</a> and <a href="https://www.behance.net/deepsc">Behance</a>
+- Lurking on <a href="https://twitter.com/AmandeepChandan">Twitter</a> and <a href="https://www.linkedin.com/in/amandeep-chandan00/">LinkedIn<a/>
+
+## Any fun facts 🤔?
+- I have a kazzo
+- I can fold a mean origami swan 
+- I love peanut butter (seriously I love it too much)
 
 ## About my repo(s):
 
