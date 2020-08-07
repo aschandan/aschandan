@@ -1,6 +1,6 @@
 # Hello hello!
 
-I'm Amandeep, a graphic design student who is passionate (but still learning) about making good design and hopefully leaving a impression on someone.
+I'm Amandeep Chandan, a graphic design student who is passionate (but still learning) on good design and ease of understanding.
 
 I got a <a href="https://amandeepchandan.com/">website</a>! (which is work in progress). Besides that, I get easily distracted by other projects and hobbies within my life.
 
