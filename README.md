@@ -15,7 +15,6 @@ I got a <a href="https://amandeepchandan.com/">website</a>! (which is work in pr
 - I have a kazzo
 - I can fold a mean origami swan 
 - I love peanut butter
-- <a href="https://github.com/yemouu">yemou is precious</a>
 # About my repo(s):
 
 ### The most common languages used are:
