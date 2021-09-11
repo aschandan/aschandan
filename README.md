@@ -12,7 +12,7 @@ I got a <a href="https://amandeepchandan.com/">website</a>! (which is work in pr
 ###### If you ever need to contact me or just wish to chat about anything, send me an email @ <amandeepchandan00@gmail.com>
 
 ## Any fun facts?
-- I have a kazzo & bass!
+- I play the bass
 - I can fold a mean origami swan.
 - I love peanut butter.
 # About my repo(s):
